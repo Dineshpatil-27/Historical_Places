@@ -22,4 +22,4 @@ This is a great beginner-friendly project for practicing:
 6. Ajanta Caves – Maharashtra  
 7. Amer Fort – Jaipur   
 8. Konark Sun Temple – Odisha  
-9. GOlden Temple - Punjab
+9. Golden Temple - Punjab
