@@ -14,12 +14,15 @@ This is a great beginner-friendly project for practicing:
 
 ## 🏛 Historical Places Covered
 
-1. Taj Mahal – Agra  
-2. Qutub Minar – Delhi  
-3. Red Fort – Delhi  
-4. Hawa Mahal – Jaipur  
-5. Gateway of India – Mumbai  
-6. Ajanta Caves – Maharashtra  
-7. Amer Fort – Jaipur   
-8. Konark Sun Temple – Odisha  
+1. Taj Mahal – Agra
+2. Qutub Minar – Delhi
+3. Red Fort – Delhi
+4. Hawa Mahal – Jaipur
+5. Gateway of India – Mumbai
+6. Ajanta Caves – Maharashtra
+7. Amer Fort – Jaipur
+8. Konark Sun Temple – Odisha
 9. Golden Temple - Punjab
+10. Sanchi Stupa - Madhya Pradesh
+11. Hampi - karnataka
+12. Humayun's Tomb - Delhi
