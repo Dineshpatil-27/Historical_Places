@@ -4,7 +4,7 @@
 
 ## 📚 Project Description
 
-India is known for its rich history, cultural diversity, and magnificent architecture. This website highlights 8 famous historical landmarks , helping users explore their significance, location, and history through a clean and visually appealing design.
+India is known for its rich history, cultural diversity, and magnificent architecture. This website highlights 12 famous historical landmarks , helping users explore their significance, location, and history through a clean and visually appealing design.
 
 This is a great beginner-friendly project for practicing:
 - Responsive grid layouts using CSS
